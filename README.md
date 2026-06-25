@@ -25,8 +25,6 @@ At this stage, the issue appears to be **experimental rather than conclusive**. 
 
 BioMistral remains an **open experiment** and may perform significantly better with improved dataset selection, model-specific optimization, or additional engineering effort.
 
-## Future work
-
 ## Future Work
 
 **BioMistral remains an open area of exploration within MedArena. Future work will focus on revisiting the model with improved dataset selection, model-specific prompt engineering, optimized CUDA execution, and systematic hyperparameter tuning to better understand its performance on Medical Question Answering.**
