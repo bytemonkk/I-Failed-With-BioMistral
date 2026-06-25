@@ -29,4 +29,4 @@ BioMistral remains an **open experiment** and may perform significantly better w
 
 **BioMistral remains an open area of exploration within MedArena. Future work will focus on revisiting the model with improved dataset selection, model-specific prompt engineering, optimized CUDA execution, and systematic hyperparameter tuning to better understand its performance on Medical Question Answering.**
 
-> **I'm Manoj and now I'm documenting my unsuccessful Model from MedArena.**
+> **I'm Manoj and today I'm documenting one of MedArena's unsuccessful Model.**
