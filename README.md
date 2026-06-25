@@ -22,4 +22,4 @@ BioMistral remains an **open experiment** and may perform significantly better w
 
 ## Future work
 
-> **I'm Manoj and now I'm documenting my unsuccessful Model from MedArena**
+> **I'm Manoj and now I'm documenting my unsuccessful Model from MedArena.**
