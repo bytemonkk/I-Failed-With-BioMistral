@@ -3,6 +3,8 @@
 <p align="center">
   <img src="assets/bioMistralFailed.png" alt="MedArena Banner" width="100%">
 </p>
+
+
 As part of **MedArena**, I fine-tuned **BioMistral** using the same Medical Question Answering pipeline applied to the other models in this benchmark. While models such as **Llama-3**, **Qwen2.5**, **Qwen3**, **MedGemma-1.5**, **MedGemma-4B-IT**, **Phi-3 Mini**, and **Mistral-7B** produced satisfactory results, **BioMistral consistently underperformed** under the current experimental setup.
 
 ## Possible Contributing Factors
